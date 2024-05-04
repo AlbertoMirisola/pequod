@@ -1,0 +1,29 @@
+import(
+ggplot2,
+car, methods
+)
+importFrom(stats,lm,as.formula,na.omit,model.matrix,sd,residuals,
+anova, pf,printCoefmat,vcov,pt,coef)
+export(
+lmres,
+summary.lmres,
+simpleSlope,
+summary.simpleSlope,
+PlotSlope
+)
+S3method(lmres,default)
+S3method(print,lmres)
+S3method(summary,lmres)
+S3method(print,summary.lmres)
+S3method(simpleSlope,default)
+S3method(print,simpleSlope)
+S3method(summary,simpleSlope)
+S3method(print,summary.simpleSlope)
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+5e3361784d496cec85f34cc9ffa245fa *DESCRIPTION
+69ffbdaf66c6ce1a2b597fb4872c6ce7 *NAMESPACE
+133a73ee44fa5716cc382ce2b82a0f5d *R/lmres.R
+2441dba8adb27dabbcc14b5678ad4707 *R/plotSlope.R
+d9e5d65b1dd05c0bceeb81a41b79d3c0 *R/simpleSlope.R
+fc472ae6b55b01b4fd14daada247d174 *man/PlotSlope.Rd
+e9c9e2f080f9a617c3b1539cc9166dc0 *man/lmres.Rd
+8c8cb35e664897cfb8822bc7dd8af7ff *man/simpleSlope.Rd
+40f9dcecf88581c3c214c8516835ec0d *man/summary.lmres.Rd
+6506adc960953ab9a12f9ed695e22a40 *man/summary.simpleSlope.Rd
